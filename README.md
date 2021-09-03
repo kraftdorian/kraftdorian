@@ -6,6 +6,7 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 ![react](https://img.shields.io/badge/react%20-%23404040.svg?logo=react&style=for-the-badge&logoColor=cyan)
 ![vue.js](https://img.shields.io/badge/vue.js%20-%23404040.svg?logo=vue.js&style=for-the-badge&logoColor=lightgreen)
 ![styled-components](https://img.shields.io/badge/styled%20components%20-%23404040.svg?logo=styled-components&style=for-the-badge&logoColor=pink)
+![docker](https://img.shields.io/badge/docker%20-%23404040.svg?logo=docker&style=for-the-badge&logoColor=dodgerblue)
 ![typescript](https://img.shields.io/badge/typescript%20-%23404040.svg?logo=typescript&style=for-the-badge&logoColor=blue)
 ![node.js](https://img.shields.io/badge/node.js%20-%23404040.svg?logo=node.js&style=for-the-badge&logoColor=green)
 ![npm](https://img.shields.io/badge/npm%20-%23404040.svg?logo=npm&style=for-the-badge&logoColor=red)
