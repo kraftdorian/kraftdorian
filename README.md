@@ -5,8 +5,9 @@ I'm a Frontend Engineer with a passion for continuously learning new things.
 ### 🔭 What tech stack I'm currently working with
 ![react](https://img.shields.io/badge/react%20-%23404040.svg?logo=react&&style=for-the-badge&logoColor=cyan)
 ![vue.js](https://img.shields.io/badge/vue.js%20-%23404040.svg?logo=vue.js&style=for-the-badge&logoColor=lightgreen)
-![node.js](https://img.shields.io/badge/node.js%20-%23404040.svg?logo=node.js&&style=for-the-badge&logoColor=green)
 ![styled-components](https://img.shields.io/badge/styled%20components%20-%23404040.svg?logo=styled-components&style=for-the-badge&logoColor=pink)
+![typescript](https://img.shields.io/badge/typescript%20-%23404040.svg?logo=typescript&&style=for-the-badge&logoColor=blue)
+![node.js](https://img.shields.io/badge/node.js%20-%23404040.svg?logo=node.js&&style=for-the-badge&logoColor=green)
 ![npm](https://img.shields.io/badge/npm%20-%23404040.svg?logo=npm&style=for-the-badge&logoColor=red)
 
 ### 🔭 What tech stack I was working with
