@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Frontend Engineer with a passion for continuously learning new things.
+I'm a Frontend Engineer from Poland with a passion for continuously learning new things.
 
 ### 🔭 What tech stack I'm currently working with
 ![react](https://img.shields.io/badge/react%20-%23404040.svg?logo=react&&style=for-the-badge&logoColor=cyan)
