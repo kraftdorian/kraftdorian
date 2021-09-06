@@ -31,3 +31,6 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 I like to rewrite code based on other languages to JavaScript.\
 I think it's a good way to enhance my learning process.\
 Check out my [gists](https://gist.github.com/kraftdorian) to learn more.
+
+Also, I have an artistic side 🙂\
+[<img src="https://img.shields.io/badge/deviant%20art-%23404040.svg?logo=deviantart&style=for-the-badge&logoColor=green" alt="deviantart"/>](https://deviantart.com/kraftdorian)
