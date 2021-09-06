@@ -26,3 +26,8 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 ### 📫 How to reach me
 [<img src="https://img.shields.io/badge/linked%20in-%23404040.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/damian-kajzer/)
 [<img src="https://img.shields.io/badge/dev.to%20-%23404040.svg?logo=dev.to&style=for-the-badge&logoColor=white" alt="dev.to" />](https://dev.to/kraftdorian)
+
+### ⚡ Fun fact:
+I like to rewrite code based on other languages to JavaScript.\
+I think it's a good way to enhance my learning process.\
+Check out my [gists](https://gist.github.com/kraftdorian) to learn more.
