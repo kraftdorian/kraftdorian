@@ -27,10 +27,13 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 [<img src="https://img.shields.io/badge/linked%20in-%23404040.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/damian-kajzer/)
 [<img src="https://img.shields.io/badge/dev.to%20-%23404040.svg?logo=dev.to&style=for-the-badge&logoColor=white" alt="dev.to" />](https://dev.to/kraftdorian)
 
-### ⚡ Fun fact:
+### ⚡ Fun facts
 I like to rewrite code based on other languages to JavaScript.\
 I think it's a good way to enhance my learning process.\
 Check out my [gists](https://gist.github.com/kraftdorian) to learn more.
 
-Also, I have an artistic side 🙂\
+I'm art hobbyist, mostly doing traditional art.\
 [<img src="https://img.shields.io/badge/deviant%20art-%23404040.svg?logo=deviantart&style=for-the-badge&logoColor=green" alt="deviantart"/>](https://deviantart.com/kraftdorian)
+
+I stream my art too!\
+[<img src="https://img.shields.io/twitch/status/kraftdorian?logo=twitch&logoColor=%23fff&style=for-the-badge" alt="deviantart"/>](https://twitch.tv/kraftdorian)
