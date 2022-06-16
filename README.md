@@ -5,6 +5,7 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 ### 🔭 What tech stack I'm currently working with
 ![react](https://img.shields.io/badge/react%20-%23404040.svg?logo=react&style=for-the-badge&logoColor=cyan)
 ![vue.js](https://img.shields.io/badge/vue.js%20-%23404040.svg?logo=vue.js&style=for-the-badge&logoColor=lightgreen)
+![jest](https://img.shields.io/badge/jest%20-%23404040.svg?logo=jest&style=for-the-badge&logoColor=red)
 ![styled-components](https://img.shields.io/badge/styled%20components%20-%23404040.svg?logo=styled-components&style=for-the-badge&logoColor=pink)
 ![docker](https://img.shields.io/badge/docker%20-%23404040.svg?logo=docker&style=for-the-badge&logoColor=dodgerblue)
 ![typescript](https://img.shields.io/badge/typescript%20-%23404040.svg?logo=typescript&style=for-the-badge&logoColor=blue)
@@ -17,10 +18,7 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 ![sql](https://img.shields.io/badge/sql%20-%23404040.svg?logo=mysql&style=for-the-badge&logoColor=orange)
 
 ### 🌱 What I'm currently learning
-![jest](https://img.shields.io/badge/jest%20-%23404040.svg?logo=jest&style=for-the-badge&logoColor=red)
 ![haskell](https://img.shields.io/badge/haskell%20-%23404040.svg?logo=haskell&style=for-the-badge&logoColor=darkorchid)
-
-### 🌱 What I want to learn
 ![elm](https://img.shields.io/badge/elm%20-%23404040.svg?logo=elm&style=for-the-badge&logoColor=blue)
 
 ### 📫 How to reach me
