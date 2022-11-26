@@ -24,6 +24,7 @@ I'm a Frontend Engineer from Poland with a passion for continuously learning new
 ### 📫 How to reach me
 [<img src="https://img.shields.io/badge/linked%20in-%23404040.svg?logo=linkedin&style=for-the-badge&logoColor=blue" alt="linked in" />](https://www.linkedin.com/in/damian-kajzer/)
 [<img src="https://img.shields.io/badge/dev.to%20-%23404040.svg?logo=dev.to&style=for-the-badge&logoColor=white" alt="dev.to" />](https://dev.to/kraftdorian)
+[<img src="https://img.shields.io/badge/leetcode.com-%23404040.svg?logo=leetcode&style=for-the-badge" alt="leetcode.com" />](https://leetcode.com/4hemispheres)
 
 ### ⚡ Fun facts
 I like to rewrite code based on other languages to JavaScript.\
